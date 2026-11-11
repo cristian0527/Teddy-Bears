@@ -1,2 +1,2 @@
-# Teddy-Bears
-MATH-301 Data Science Project
+# Teddy Bears
+# MATH-301 - Audio Generated Art 
